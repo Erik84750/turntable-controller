@@ -33,11 +33,12 @@ B. Description of features:
   7. button B: move to whatever position by using the keypad
   8. button C: calibration
   9. button D: designate a position (current position) from eeprom to current turntable indexed position
-  10. button #: select an index position to be moved to
-  11. Button *: select index position + 180° to be moved to.
-  12. enter # or * before index selection so that the turntable alligns at 0° or 180°
-  13. a "long press" of (adjustable) 500ms is included to prevent inadvertent keypresses
-  14. include, upon calibration, the option to make a full 360° in order to calculate the stepper motor steps for a full 360° rotation.
+  11. button #: select an index position to be moved to
+  12. Button *: select index position + 180° to be moved to.
+  13. enter # or * before index selection so that the turntable alligns at 0° or 180°
+  14. Rotary encoder rotation of turntable; RE button serves to set speed x10 or regular
+  15. a "long press" of (adjustable) 500ms is included to prevent inadvertent keypresses
+  16. include, upon calibration, the option to make a full 360° in order to calculate the stepper motor steps for a full 360° rotation.
 
 ![stepper motor HS2236_1](https://github.com/Erik84750/turntable-controller/assets/20128852/0df68b92-2e0d-4379-9515-5cf681c18422)
 
