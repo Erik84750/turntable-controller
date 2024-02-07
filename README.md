@@ -41,6 +41,12 @@ B. Description of features:
   16. include, upon calibration, the option to make a full 360° in order to calculate the stepper motor steps for a full 360° rotation.
   17. EEPROM storage of programmed track index positions
 
+C. Documents
+[stepper motor 17HS2408-MotionKing.pdf](https://github.com/Erik84750/turntable-controller/files/14192960/stepper.motor.17HS2408-MotionKing.pdf)
+[stepper motor driver A4988.pdf](https://github.com/Erik84750/turntable-controller/files/14192971/stepper.motor.driver.A4988.pdf)
+[Uploading stepper motor 28BYJ-45 12V.pdf…]()
+
+
 ![stepper motor HS2236_1](https://github.com/Erik84750/turntable-controller/assets/20128852/0df68b92-2e0d-4379-9515-5cf681c18422)
 
 ![a4988-stepper-motor-controler](https://github.com/Erik84750/turntable-controller/assets/20128852/c50b7870-e508-422d-878e-d73ceac1acc1)
@@ -49,11 +55,6 @@ B. Description of features:
 
 ![keypad 4x4](https://github.com/Erik84750/turntable-controller/assets/20128852/72cb4111-b025-4728-82b0-08ddbe2f0e2e)
 
-[Uploading stepper motor 28BYJ-45 12V.pdf…]()
-
-[stepper motor 17HS2408-MotionKing.pdf](https://github.com/Erik84750/turntable-controller/files/14192960/stepper.motor.17HS2408-MotionKing.pdf)
-
 <img width="804" alt="turntable_controller_complete" src="https://github.com/Erik84750/turntable-controller/assets/20128852/87b85869-a899-421c-a504-99f51ce4470f">
 
-[stepper motor driver A4988.pdf](https://github.com/Erik84750/turntable-controller/files/14192971/stepper.motor.driver.A4988.pdf)
 
