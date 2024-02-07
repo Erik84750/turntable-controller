@@ -42,9 +42,14 @@ B. Description of features:
   17. EEPROM storage of programmed track index positions
 
 C. Documents
+
 [stepper motor 17HS2408-MotionKing.pdf](https://github.com/Erik84750/turntable-controller/files/14192960/stepper.motor.17HS2408-MotionKing.pdf)
+
 [stepper motor driver A4988.pdf](https://github.com/Erik84750/turntable-controller/files/14192971/stepper.motor.driver.A4988.pdf)
+
 [Uploading stepper motor 28BYJ-45 12V.pdf…]()
+
+
 
 
 ![stepper motor HS2236_1](https://github.com/Erik84750/turntable-controller/assets/20128852/0df68b92-2e0d-4379-9515-5cf681c18422)
