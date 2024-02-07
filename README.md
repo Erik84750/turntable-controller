@@ -49,9 +49,11 @@ B. Description of features:
 
 ![keypad 4x4](https://github.com/Erik84750/turntable-controller/assets/20128852/72cb4111-b025-4728-82b0-08ddbe2f0e2e)
 
+[Uploading stepper motor 28BYJ-45 12V.pdf…]()
+
 [stepper motor 17HS2408-MotionKing.pdf](https://github.com/Erik84750/turntable-controller/files/14192960/stepper.motor.17HS2408-MotionKing.pdf)
 
-[Uploading stepper motor 28BYJ-45 12V.pdf…]()
+<img width="804" alt="turntable_controller_complete" src="https://github.com/Erik84750/turntable-controller/assets/20128852/87b85869-a899-421c-a504-99f51ce4470f">
 
 [stepper motor driver A4988.pdf](https://github.com/Erik84750/turntable-controller/files/14192971/stepper.motor.driver.A4988.pdf)
 
