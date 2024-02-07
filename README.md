@@ -39,6 +39,7 @@ B. Description of features:
   14. Rotary encoder rotation of turntable; RE button serves to set speed x10 or regular
   15. a "long press" of (adjustable) 500ms is included to prevent inadvertent keypresses
   16. include, upon calibration, the option to make a full 360° in order to calculate the stepper motor steps for a full 360° rotation.
+  17. EEPROM storage of programmed track index positions
 
 ![stepper motor HS2236_1](https://github.com/Erik84750/turntable-controller/assets/20128852/0df68b92-2e0d-4379-9515-5cf681c18422)
 
