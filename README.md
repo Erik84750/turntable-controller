@@ -5,12 +5,19 @@ A. Introduction
   1. The purpose of this project is to create a stand-alone and automated model railroad (any scale) turntable controller
   2. Hardware: 
     a. stepper motor: project is usable for any type of stepper motor but prefered option is the use of a 17HS2408 motor
+
     b. stepper motor driver: any motor driver module can be used but prefered option is a module with an onboard A4988 chip
+    
     c. indexing sensor: optical sensor with accurate positioning sensing. Hall effect is exluded due to its inacurate sensing repeatability and wide detection range.
+    
     d. 4x4 keypad with pushbuttons (no membrane keypad)
+    
     e. a custom designed PCB (all required info for manufacture is included in this project file)
+    
     f. LCD display with 20x4 characters
-     g. a 3D printable casing for this project, downloadable .stl files
+    
+    g. a 3D printable casing for this project, downloadable .stl files
+    
   4. Software
     a. C++ custom software with a very wide range of options and features
     b. All software is freely downloadable from this project file
