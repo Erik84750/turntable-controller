@@ -28,7 +28,7 @@ B. Description of features:
   2. Automated initial indexing and storage in eeprom is provided. Due to the very high accuracy (+/- 1 micrometer) of the optical sensor the repeatability is < 5 micrometer.
   3. Fast index location and programming for outgoing/incoming tracks is provided, storage in eeprom. The turntable will always move CW or CCW after the algorithm included calculates the shortest/fastest rotation
   4. Automated "shortest rotation" algorithm is included in the software
-  5. Photo-electric sensor http://tinyurl.com/2ce3v4j9 used for indexing calibration
+  5. Photo-electric sensor (based on HC-020K module) http://tinyurl.com/2ce3v4j9 or http://tinyurl.com/3nykkvw3 used for indexing calibration
   6. button A: assign the current position to an index number in eeprom
   7. button B: move to whatever position by using the keypad
   8. button C: calibration
