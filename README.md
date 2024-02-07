@@ -39,3 +39,14 @@ B. Description of features:
   13. a "long press" of (adjustable) 500ms is included to prevent inadvertent keypresses
   14. include, upon calibration, the option to make a full 360° in order to calculate the stepper motor steps for a full 360° rotation.
 
+![stepper motor HS2236_1](https://github.com/Erik84750/turntable-controller/assets/20128852/0df68b92-2e0d-4379-9515-5cf681c18422)
+
+![a4988-stepper-motor-controler](https://github.com/Erik84750/turntable-controller/assets/20128852/c50b7870-e508-422d-878e-d73ceac1acc1)
+
+![md-hc-020k](https://github.com/Erik84750/turntable-controller/assets/20128852/56b6b7ec-ffee-40d6-be44-9f8bce4e5b92)
+
+![keypad 4x4](https://github.com/Erik84750/turntable-controller/assets/20128852/72cb4111-b025-4728-82b0-08ddbe2f0e2e)
+
+[stepper motor 17HS2408-MotionKing.pdf](https://github.com/Erik84750/turntable-controller/files/14192960/stepper.motor.17HS2408-MotionKing.pdf)
+
+[Uploading stepper motor 28BYJ-45 12V.pdf…]()
