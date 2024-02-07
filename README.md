@@ -38,3 +38,4 @@ B. Description of features:
   12. enter # or * before index selection so that the turntable alligns at 0° or 180°
   13. a "long press" of (adjustable) 500ms is included to prevent inadvertent keypresses
   14. include, upon calibration, the option to make a full 360° in order to calculate the stepper motor steps for a full 360° rotation.
+
