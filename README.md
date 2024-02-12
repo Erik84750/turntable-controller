@@ -62,4 +62,7 @@ C. Documents
 
 <img width="804" alt="turntable_controller_complete" src="https://github.com/Erik84750/turntable-controller/assets/20128852/87b85869-a899-421c-a504-99f51ce4470f">
 
+![IMG_20240212_085448](https://github.com/Erik84750/turntable-controller/assets/20128852/2b947752-17b8-457a-8715-5f5f5e0ba67f)
+
+
 
