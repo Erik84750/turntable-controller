@@ -11,6 +11,8 @@ A. Introduction
     
   c. indexing sensor: optical HC-020K sensor with accurate positioning sensing; only the sensor (no perforated disks). Hall effect is exluded due to its inacurate sensing repeatability and wide detection range.
   The turntable disk should be equipped with just one small protruding object that passes through the sensor "eye", mounted underneath the framework, out of sight.
+  The turntable disk should be equipped with just one small protruding object that passes through the sensor "eye", mounted underneath the framework, out of sight.
+
     
   d. 4x4 keypad with pushbuttons (no membrane keypad)
     
