@@ -9,7 +9,7 @@ A. Introduction
 
   b. stepper motor driver: any motor driver module can be used but prefered option is a module with an onboard A4988 chip
     
-  c. indexing sensor: optical sensor with accurate positioning sensing. Hall effect is exluded due to its inacurate sensing repeatability and wide detection range.
+  c. indexing sensor: optical HC-020K sensor with accurate positioning sensing; only the sensor (no perforated disks). Hall effect is exluded due to its inacurate sensing repeatability and wide detection range.
     
   d. 4x4 keypad with pushbuttons (no membrane keypad)
     
