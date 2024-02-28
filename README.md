@@ -7,7 +7,7 @@ A. Introduction
 
   a. stepper motor: project is usable for any type of stepper motor but prefered option is the use of a 17HS2408 motor.
 
-  b. stepper motor driver: any motor driver module can be used but prefered option is a module with an onboard A4988 chip.
+  b. stepper motor driver: any motor driver module can be used but prefered option is a module with an onboard A4988 chip (https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/).
     
   c. indexing sensor: optical HC-020K sensor with accurate positioning sensing; only the sensor (no perforated disks). Hall effect is exluded due to its inacurate sensing repeatability and wide detection range.
   The turntable disk should be equipped with just one small protruding object that passes through the sensor "eye", mounted underneath the framework, out of sight.
