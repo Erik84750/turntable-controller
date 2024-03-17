@@ -5,7 +5,7 @@ A. Introduction
   1. The purpose of this project is to create a stand-alone and automated model railroad (any scale) turntable controller
   2. Hardware: 
 
-  a. stepper motor: project is usable for any type of stepper motor but prefered option is the use of a 17HS2408 motor.
+  a. stepper motor: project is usable for any type of stepper motor but prefered option is the use of a 17HS2408 motor (NEMA17).
 
   b. stepper motor driver: any motor driver module can be used but prefered option is a module with an onboard A4988 chip (https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/).
     
