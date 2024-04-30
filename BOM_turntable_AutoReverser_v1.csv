@@ -1,0 +1,16 @@
+"Part";"Value";"Device";"Package";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";
+"C1";"100µF";"CERAMIC-CAP";"1206";"ceramic capacitor leads 2.5mm and 5.5mm";"";"";"";"";
+"D2";"LED-0603";"LED-0603V1";"LED_0603";"LED SMD mount";"";"";"";"";
+"D3";"1N4148";"1N4148SOD323-ST";"SOD323_ST";"DIODE";"";"";"";"";
+"IC1";"ARDUINO-PRO-MINI-LIMITED";"ARDUINO-PRO-MINI-LIMITED";"ARDUINO-PRO-MINI-LIMITED";"Arduino Pro Mini Clone V1.0";"";"";"";"";
+"IC2";"LM7111-5V";"LM1117-TO220";"TO220V";"LM1117 TO220 VOLTAGE REGULATOR";"";"";"";"";
+"JP1";"";"PINHD-1X3";"1X03";"PIN HEADER";"";"";"";"";
+"K1";"OMRON_RELAY_TX25VD2";"OMRON_RELAY_TX25VD2";"RELAY";"TX Relais NAiS";"";"TXD2-5V";"unknown";"";
+"Q1";"AO3400A";"AO3400A-N-CH";"SOT23";"AO3400 N-channel 30V TTL MOSFET";"";"";"";"";
+"R1";"1k";"RESISTOR-SMD-1206";"R1206W";"Resistor 1/4W H wide fit";"";"";"";"";
+"R2";"1k";"RESISTOR-SMD-1206";"R1206W";"Resistor 1/4W H wide fit";"";"";"";"";
+"SJ1";"";"SJ";"SJ";"SMD solder JUMPER";"";"";"";"";
+"X1";"TERMINAL_2P_3,5MM_V2";"TERMINAL_2P_3,5MM_V2";"TERMINAL_2P_3,5MM_V2";"MKDS 1/ 2-3,5 Printklemme";"";"";"unknown";"unknown";
+"X2";"TERMINAL_2P_3,5MM_V2";"TERMINAL_2P_3,5MM_V2";"TERMINAL_2P_3,5MM_V2";"MKDS 1/ 2-3,5 Printklemme";"";"";"unknown";"unknown";
+"X5";"";"TERMINAL-5MM-2POLE";"W237-132";"WAGO SCREW CLAMP";"";"";"unknown";"unknown";
+"X6";"";"TERMINAL-5MM-2POLE";"W237-132";"WAGO SCREW CLAMP";"";"";"unknown";"unknown";
