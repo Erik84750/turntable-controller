@@ -22,7 +22,7 @@ This object may even be the size of a nail; as long as it passes through the sen
     
   g. a 3D printable casing for this project, downloadable .stl files.
 
-  h. turntable track polarity control: ACS712-based sensor controls the DCC track polarity
+  h. turntable track polarity control: ACS712-based sensor controls the DCC track polarity. Omron G6S-2 5VDC relay.
     
   3. Software
     a. C++ custom software with a very wide range of options and features
@@ -68,6 +68,11 @@ C. Documents
 <img width="804" alt="turntable_controller_complete" src="https://github.com/Erik84750/turntable-controller/assets/20128852/87b85869-a899-421c-a504-99f51ce4470f">
 
 ![IMG_20240212_085448](https://github.com/Erik84750/turntable-controller/assets/20128852/2b947752-17b8-457a-8715-5f5f5e0ba67f)
+
+![ACS712](https://github.com/Erik84750/turntable-controller/assets/20128852/05aa3ba4-6167-466e-b8da-f84c02e5c452)
+
+![Omron_G6S-2_5VDC](https://github.com/Erik84750/turntable-controller/assets/20128852/a3b12cd1-0aed-4413-ad3c-aed0734b3a89)
+
 
 
 
