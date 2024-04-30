@@ -21,6 +21,8 @@ This object may even be the size of a nail; as long as it passes through the sen
   f. LCD display with 20x4 characters.
     
   g. a 3D printable casing for this project, downloadable .stl files.
+
+  h. turntable track polarity control: ACS712-based sensor controls the DCC track polarity
     
   3. Software
     a. C++ custom software with a very wide range of options and features
